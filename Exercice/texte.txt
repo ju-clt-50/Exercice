@@ -1,0 +1,2 @@
+chown u+rw titi
+
